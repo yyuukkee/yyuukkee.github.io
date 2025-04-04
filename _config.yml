@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Yuke Li / Site Title"
+title                    : "Yuke Li / Homepage"
 title_separator          : "-"
 name                     : &name "Yuke Li"
 description              : &description "personal description"
